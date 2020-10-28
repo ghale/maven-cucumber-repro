@@ -1,0 +1,9 @@
+<gradleEnterprise>
+    <server>
+        <url>https://yourserver.com</url>
+        <allowUntrusted>true</allowUntrusted>
+    </server>
+    <buildScan>
+        <publish>ALWAYS</publish>
+    </buildScan>
+</gradleEnterprise>
